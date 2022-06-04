@@ -9,7 +9,16 @@ This is the body of the zettel ( "slip" )
 **bold**
 ***bolditalics***
 
-Looks like : `code`
+Lets write some golang  `code`
+
+```go
+package main
+import "fmt"
+
+func main() {
+    fmt.Println("Hello,World")
+}
+```
 
 URL :
 
