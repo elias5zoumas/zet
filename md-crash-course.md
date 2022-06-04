@@ -8,3 +8,15 @@ This is the body of the zettel ( "slip" )
 *italics*
 **bold**
 ***bolditalics***
+
+Looks like : `code`
+
+URL :
+
+https:rwx.gg
+
+
+Footer references
+
+    #zettel   #notes
+
