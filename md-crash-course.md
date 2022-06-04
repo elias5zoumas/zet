@@ -13,7 +13,7 @@ Looks like : `code`
 
 URL :
 
-https:rwx.gg
+https://rwx.gg
 
 
 Footer references
